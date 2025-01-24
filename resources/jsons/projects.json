@@ -1,0 +1,76 @@
+{
+	"projects":
+	[
+
+		{
+			"date": 2023,
+			"type": "Personal Project",
+			"title": "Shipping Container Monitoring Cum Tracking System Using GPS & GSM",
+			"description": "The Shipping Container Monitoring cum Tracking System leverages GPS and GSM technology to provide real-time tracking of container locations. It also monitors environmental conditions such as temperature and humidity inside the container, ensuring the safety and quality of transported goods. The system transmits location data and sensor readings to users via SMS or an online platform, enhancing logistics efficiency and cargo security.",
+			"tags":
+			[
+				{ "name": "C"},
+				{ "name": "Verilog HDL" },
+				{ "name": "GPS" },
+				{ "name": "GSM" }
+			],
+			"links":
+			[
+				"https://github.com/akhil531/-Shipping-Container-Monitoring-Cum-Tracking-System-Designed-with-GPS-and-GSM.pdf",
+				"https://github.com/akhil531/-Shipping-Container-Monitoring-Cum-Tracking-System-Designed-with-GPS-and-GSM.pdf",
+				"none"
+
+			],
+
+			"video": "resources/videos/projects/Galaxy_simulation.mp4",
+			"image": "resources/images/projects/Galaxy_simulation.webp",
+			"logo": "resources/svgs/projects/Galaxy_simulation.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		{
+			"date": 2022,
+			"type": "School Project",
+			"title": "Invisible Security system using embedded system",
+			"description": "This system enhances security with discreet monitoring, minimizing the risk of intruder detection. It provides real-time alerts for immediate response to unauthorized access. Its autonomous and customizable design ensures reliable, low-maintenance protection across various environments.",
+			"tags":
+			[
+				{ "name": "C" },
+				{ "name": "Verilog HDL" }
+				
+			],
+			"links":
+			[
+				"none",
+				"none",
+				"none"
+				
+			],
+			"video": "resources/videos/projects/Proverbot.mp4",
+			"image": "resources/images/projects/Proverbot.webp",
+			"logo": "resources/svgs/projects/Proverbot.svg",
+			"categories": ["Personal", "Web", "AI"]
+		},
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Portfolio",
+			"description": "This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...",
+			"tags":
+			[
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" },
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
+			],
+			"links":
+			[
+				"https://github.com/akhil531/codsoft--task1git add nyy",
+				"https://github.com/akhil531/codsoft--task1git add nyy",
+				"none"
+			],
+			"video": "resources/videos/projects/Portfolio.mp4",
+			"image": "resources/images/projects/Portfolio.webp",
+			"logo": "resources/svgs/projects/Portfolio.svg",
+			"categories": ["Personal", "Web"]
+		}
+	]
+}
